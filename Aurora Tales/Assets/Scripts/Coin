@@ -1,0 +1,15 @@
+using UnityEngine;
+using TMPro;
+
+
+public CoinManager cm;
+public class Coin : MonoBehaviour
+{
+    private TextMeshProUGUI coinText;
+
+    private void Start()
+    {
+        coinText = GameObject.FindWithTag("CoinText").GetComponent<TextMeshProUGUI>();
+    }
+
+}

@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: e327bd0810c122e439d4524006197251
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 525866945623969957
+    second: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_0
+  - first:
+      213: 7543501138382161596
+    second: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_1
+  - first:
+      213: 5839842771037627298
+    second: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_2
+  - first:
+      213: -3342410466425736343
+    second: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_3
+  - first:
+      213: -5390123367566580314
+    second: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_4
+  - first:
+      213: -6038472377671308544
+    second: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_5
+  - first:
+      213: 6192981744027725947
+    second: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_6
+  - first:
+      213: -6870866825149737460
+    second: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_7
+  - first:
+      213: -7863951288352476025
+    second: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_8
+  - first:
+      213: 3665586025112597057
+    second: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_9
+  - first:
+      213: 365452431562667420
+    second: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_10
+  - first:
+      213: -3215580371945848997
+    second: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_11
+  - first:
+      213: -585242213303330407
+    second: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_12
+  - first:
+      213: 4404271349579887145
+    second: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_13
+  - first:
+      213: -3104816942301512092
+    second: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_14
+  - first:
+      213: -8118872487835058294
+    second: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 198
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0590d63314c4700800000000000000
+      internalID: 525866945623969957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 197
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb606047156efa860800000000000000
+      internalID: 7543501138382161596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 197
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3a4d73f0a4b0150800000000000000
+      internalID: 5839842771037627298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 197
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963752fb36f5d91d0800000000000000
+      internalID: -3342410466425736343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 197
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a569a4fa5f6235b0800000000000000
+      internalID: -5390123367566580314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 120
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ba4ee9d59033ca0800000000000000
+      internalID: -6038472377671308544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7070499514e1f550800000000000000
+      internalID: 6192981744027725947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 120
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c061fe3a607c5a0a0800000000000000
+      internalID: -6870866825149737460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 120
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78476ced7f1add290800000000000000
+      internalID: -7863951288352476025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 120
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142f8789117ced230800000000000000
+      internalID: 3665586025112597057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 43
+        width: 109
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95789ddc09521500800000000000000
+      internalID: 365452431562667420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 44
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ff27740b6ff53d0800000000000000
+      internalID: -3215580371945848997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 44
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999dd78ce4dc0e7f0800000000000000
+      internalID: -585242213303330407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 44
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922b326257d1f1d30800000000000000
+      internalID: 4404271349579887145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 44
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ef085e07979e4d0800000000000000
+      internalID: -3104816942301512092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 44
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f36e9ec78f35f80800000000000000
+      internalID: -8118872487835058294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_0: 525866945623969957
+      robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_1: 7543501138382161596
+      robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_10: 365452431562667420
+      robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_11: -3215580371945848997
+      robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_12: -585242213303330407
+      robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_13: 4404271349579887145
+      robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_14: -3104816942301512092
+      robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_15: -8118872487835058294
+      robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_2: 5839842771037627298
+      robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_3: -3342410466425736343
+      robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_4: -5390123367566580314
+      robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_5: -6038472377671308544
+      robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_6: 6192981744027725947
+      robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_7: -6870866825149737460
+      robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_8: -7863951288352476025
+      robot-emotions-chatbot-assistant-cute-260nw-2456398867-removebg-preview_9: 3665586025112597057
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
